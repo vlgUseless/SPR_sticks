@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/img">
-        <file>img/stick.png</file>
-        <file>img/stick_reversed.png</file>
-        <file>img/button_pink.png</file>
-        <file>img/button_blue.png</file>
-        <file>img/gameoptions.png</file>
-    </qresource>
-</RCC>
